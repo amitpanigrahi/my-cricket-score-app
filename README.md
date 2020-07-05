@@ -35,6 +35,13 @@ $ yarn install
 $ yarn start
 ```
 
+or
+
+```sh
+$ npm install
+$ npm start
+```
+
 ### Todos
 
  - Introducing material UI. Not required at this stage.
